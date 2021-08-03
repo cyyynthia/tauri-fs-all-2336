@@ -1,0 +1,15 @@
+{
+  "name": "tauri-fs-all-2336",
+  "version": "1.0.0",
+  "description": "Minimal reproduction case for tauri-apps/tauri#2336",
+  "repository": "git@github.com:cyyynthia/tauri-fs-all-2336.git",
+  "author": "Cynthia <cynthia@cynthia.dev>",
+  "license": "0BSD",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.0-beta.5",
+    "@tauri-apps/cli": "^1.0.0-beta.6"
+  }
+}
